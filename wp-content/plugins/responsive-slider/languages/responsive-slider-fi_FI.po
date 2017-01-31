@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-21 22:44+0200\n"
+"PO-Revision-Date: 2012-04-21 22:44+0200\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: responsive-slider.php:129
+msgid "Slides"
+msgstr "Sliderkuvat"
+
+#: responsive-slider.php:130
+msgid "Slide"
+msgstr "Sliderkuva"
+
+#: responsive-slider.php:131
+msgid "All Slides"
+msgstr "Kaikki sliderkuvat"
+
+#: responsive-slider.php:132
+#: responsive-slider.php:133
+msgid "Add New Slide"
+msgstr "Lisää uusi sliderkuva"
+
+#: responsive-slider.php:134
+msgid "Edit Slide"
+msgstr "Editoi sliderkuvaa"
+
+#: responsive-slider.php:135
+msgid "New Slide"
+msgstr "Uusi sliderkuva"
+
+#: responsive-slider.php:136
+msgid "View Slide"
+msgstr "Näytä sliderkuva"
+
+#: responsive-slider.php:137
+msgid "Search Slides"
+msgstr "Etsi sliderkuvia"
+
+#: responsive-slider.php:138
+msgid "No Slide found"
+msgstr "Sliderkuvia ei löytynyt"
+
+#: responsive-slider.php:139
+msgid "No Slide found in Trash"
+msgstr "Sliderkuvia ei löytynyt roskakorista"
+
+#: responsive-slider.php:311
+msgid "The URL this slide should link to."
+msgstr "Tämän sliderkuvan URL osoite."
+
+#: responsive-slider.php:340
+msgid "Slide Image"
+msgstr "Sliderkuva"
+
+#: responsive-slider.php:341
+msgid "Slide Order"
+msgstr "Sliderkuvien järjestys"
+
+#: responsive-slider.php:349
+msgid "Slider Settings"
+msgstr "Sliderkuvien asetukset"
+
+#: responsive-slider.php:349
+msgid "Settings"
+msgstr "Asetukset"
+
+#: responsive-slider.php:366
+msgid "Update Settings"
+msgstr "Päivitä asetukset"
+
+#: responsive-slider.php:367
+msgid "Note: Whenever you change the Width and Height settings, it is a good idea to re-upload the Featured Images of your Slides. This would get them cropped to the new size."
+msgstr "Huom! Aina kun vaihdat leveyttä ja korkeutta, kannattaa ladata kuvat uudelleen, jotta ne rajautuvat uuteen kuvakokoon."
+
+#: responsive-slider.php:384
+msgid " "
+msgstr " "
+
+#: responsive-slider.php:387
+msgid "Width:"
+msgstr "Leveys:"
+
+#: responsive-slider.php:388
+msgid "Height:"
+msgstr "Korkeus:"
+
+#: responsive-slider.php:389
+msgid "Transition Effect:"
+msgstr "Siirtymäefekti:"
+
+#: responsive-slider.php:390
+msgid "Delay:"
+msgstr "Viive:"
+
+#: responsive-slider.php:391
+msgid "Animation Duration:"
+msgstr "Animaation kesto:"
+
+#: responsive-slider.php:392
+msgid "Start Automatically:"
+msgstr "Aloita automaattisesti:"
+
+#: responsive-slider.php:397
+msgid "Make sure to set the desired slide width and height BEFORE creating your slides. Ideally, this would be the maximum size the slider container expands to."
+msgstr "Aseta leveys ja korkeus ENNEN kuin luot sliderkuvia. Tämä tarkoittaa sliderkuvien maksimileveyttä - ja pituutta."
+
+#: responsive-slider.php:412
+#: responsive-slider.php:424
+msgid "px"
+msgstr "pikseliä"
+
+#: responsive-slider.php:436
+msgid "fade"
+msgstr "häivytys"
+
+#: responsive-slider.php:437
+msgid "slide"
+msgstr "siirtymä"
+
+#: responsive-slider.php:449
+#: responsive-slider.php:461
+msgid "milliseconds"
+msgstr "millisekuntia"
+
+#: responsive-slider.php:527
+msgid "Image"
+msgstr "Kuva"
+
+#: responsive-slider.php:528
+msgid "Title"
+msgstr "Otsikko"
+
+#: responsive-slider.php:529
+msgid "Order"
+msgstr "Järjestys"
+
+#: responsive-slider.php:530
+msgid "Link"
+msgstr "Linkki"
+
+#: responsive-slider.php:531
+msgid "Date"
+msgstr "Päiväys"
+

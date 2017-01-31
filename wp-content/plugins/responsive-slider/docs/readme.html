@@ -1,0 +1,75 @@
+<!doctype html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">   
+
+<!-- Title -->
+<title>Read Me: Responsive Slider</title>
+
+<!-- Style -->
+<style type="text/css" media="all">
+	html { font-size: 100%; }
+	body { font: 14px/1.7em Georgia, 'Times New Roman', Times, serif; color: #555; }
+	.wrap { width: 600px; margin: 0 auto; padding: 40px 0; }
+	a, a:visited { color: #c6162a; text-decoration: none; border-bottom: 1px dotted #bbb; }
+	a:hover, a:focus { color: #000; border-color: #c6162a; }
+	.button, a.button { background-color: #c9eabd; }
+	h1 { text-align: center; color: #000; }
+	h2 { margin: .7em 0 1.15em 0; font-weight: normal; font-size: 18px; text-transform: uppercase; letter-spacing: 1px; word-spacing: 2px; color: #000;}
+	h2.description { font-style: italic; font-size: 12px; font-weight: normal; color: #aaa; text-align: center; letter-spacing: 0; text-transform: none; }
+	p, ul, ol { margin-bottom: 1.7em; }
+	p.intro { font-size: 16px; line-height: 1.6em; color: #333; }
+	code { font-family: Monaco, monospace, Courier, "Courier New"; background: #f2f2f2; }
+	li { margin-bottom: .4em; }
+	strong { color: #333; }
+	textarea { background: #f2f2f2; border: 1px solid #ddd; width: 98%; }
+</style>
+
+</head>
+
+<body>
+	<div class="wrap">
+		<h1>Responsive Slider</h1>
+		<h2 class="description">WordPress plugin</h2>
+		<p class="intro">
+		A plugin for creating slides from images, links, and titles. The slider would then take those slides and present them as a jQuery-powered slideshow - at a chosen location within your theme, page, or post. You can control the slide order as well.</p> 	
+		</p>
+
+		<h2>Installation</h2>
+		<ol>
+			<li>Download and unzip the plugin package.</li>
+			<li>Upload the folder <code>'responsive-slider'</code> to <code>'/wp-content/plugins/'</code>.</li>
+			<li>Navigate to the <strong>"Plugins"</strong> page in your WordPress admin panel and <strong>Activate</strong> the plugin. A new item <strong>"Slides"</strong> would appear in your admin menu.</li>
+		</ol>
+		
+		<h2>Usage</h2>
+		<ol>
+			<li>Go to <strong>Slides &rarr; Settings</strong> and configure the slider options.</li>
+			<li>Go to <strong>Slides &rarr; Add New Slide</strong> and create some slides.</li>
+			<li>Place: <p style="margin: 5px 0;"><textarea rows="1"><?php echo do_shortcode( '[responsive_slider]' ); ?></textarea></p> in your template file (header.php, index.php, etc.) - where you want it displayed. Alternatively you can use <code>[responsive_slider]</code> into a post or a page - just like any other shortcode.</li>
+		</ol>
+	
+		<p>
+			Then you may want to check the <a href="http://devpress.com/demo/responsive-slider/">Slider Demo</a> we've set - it would give you an idea what is possible to achieve with <em>Responsive Slider</em>.
+		</p>
+		
+		<h2>Support</h2>
+		<p>This plugin is supported at <a href="http://devpress.com">DevPress</a> - a WordPress community of developers, designers, and professional WordPress users.</p>
+		
+		<h2>Credits</h2>
+		<ul>
+			<li><em>Responsive Slider</em> uses <a href="http://flex.madebymufffin.com" title="Flex Slider">Flex Slider</a> - a jQuery slider plugin, released under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT</a> license.</li>
+			<li>The navigation icons (left & right) are from the <a href="http://www.justbenicestudio.com/studio/websymbols/">Web Symbols typeface</a> - released under <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL">OFL</a>.</li> 	
+		</ul>
+		
+		<h2>Copyright & License</h2>
+		<p>
+			<em>Responsive Slider</em> is licensed under the <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU General Public License</a>, version 2 (GPL).
+		</p>
+		<p>
+			This plugin is copyrighted to <a href="http://devpress.com">DevPress</a>.
+		</p>
+	</div>
+</body>
+</html>

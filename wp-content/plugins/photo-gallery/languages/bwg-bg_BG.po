@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2015-04-02 13:38+0400\n"
+"PO-Revision-Date: 2015-04-02 13:38+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp2\\wp-content\\plugins\\photo-"
+"gallery\n"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:528
+msgid " item(s)"
+msgstr "элемент(и)"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:533
+msgid "First"
+msgstr "Първа"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:534
+msgid "Previous"
+msgstr "Предишна"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:535
+msgid "Next"
+msgstr "Следваща"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:536
+msgid "Last"
+msgstr "Последен"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:562
+msgid "Go to the first page"
+msgstr "Отиди на първата страница"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:563
+msgid "Go to the previous page"
+msgstr "Отидете на предишната страница."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:565
+msgid "of"
+msgstr "на"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:569
+msgid "Go to the next page"
+msgstr "Преминете към следващата страница"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:570
+msgid "Go to the last page"
+msgstr "Отиди до последната страница"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:655
+msgid "Reset"
+msgstr "Reset"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:658
+msgid "Search"
+msgstr "Search"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:700
+msgid "Order by: "
+msgstr "Подреждане по"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:702
+msgid "Default"
+msgstr "неустойка"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:703
+msgid "Filename"
+msgstr "Име на файл"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:704
+msgid "Size"
+msgstr "размер"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:705
+msgid "Random"
+msgstr "произволен"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:145
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:90
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:132
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:147
+msgid "There is no theme selected or the theme was deleted."
+msgstr "Не е избрана тема или темата е била изтрита"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:152
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:184
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:97
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:129
+msgid "There is no album selected or the album was deleted."
+msgstr "Не е избран албум или албумът е изтрит."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:173
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:118
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:142
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:164
+msgid "There are no images in this gallery."
+msgstr "Има още няма снимки в тази галерия"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:562
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:529
+msgid "Back"
+msgstr "Назад към"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:585
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:540
+msgid "Album is empty."
+msgstr " Албум е празна"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:704
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:683
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3272
+msgid "There are no images matching your search."
+msgstr "Не са открити снимки, отговарящи на вашето търсене."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:709
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:688
+msgid "Gallery is empty."
+msgstr "Галерията е празна"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:818
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:783
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:811
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2113
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1437
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:500
+msgid "Play"
+msgstr "Възпроизвеждане"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:642
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:827
+msgid "More"
+msgstr "Повече"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:822
+msgid "Hide"
+msgstr "Скриване"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:791
+msgid "The image has been deleted."
+msgstr "Образът е изтрит"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:815
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1513
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1944
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2045
+msgid "Maximize"
+msgstr "Увеличете"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1515
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2047
+msgid "Fullscreen"
+msgstr "Полноэкранный"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:821
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1834
+msgid "Show info"
+msgstr "Покажи информация"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:826
+msgid "Open image in original size."
+msgstr "Open снимката в оригинален размер. "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:834
+msgid "Download original image"
+msgstr "Изтегляне на оригиналното изображение"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1655
+msgid "Show Comments"
+msgstr "Покажи коментарите"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1698
+msgid "Hide Comments"
+msgstr "Скриване на коментарите"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1830
+msgid "Hide info"
+msgstr "Скриване на информация"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1981
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2180
+msgid "Restore"
+msgstr "Възстанови"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2094
+msgid "Exit Fullscreen"
+msgstr "Изход полный экран"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2107
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2122
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1428
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1446
+msgid "Pause"
+msgstr "Пауза"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:137
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:158
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "Не е избран галерия или галерията е била изтрита."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3270
+msgid "field is required."
+msgstr "е задължително поле."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3271
+msgid "This is not a valid email address."
+msgstr "Това не е валиден имейл адрес."
+
+#~ msgid "Show comments"
+#~ msgstr "Покажи коментари"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Споделяне на Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Споделяне на Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Споделете в Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Сподели на Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Сподели на Tumblr"
+
+#~ msgid "Show rating"
+#~ msgstr "Покажи рейтинг"
+
+#~ msgid "Hits: "
+#~ msgstr "Посещения:"
+
+#~ msgid "Rated."
+#~ msgstr "Номинално."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Все още неоценен."
+
+#~ msgid "Votes: "
+#~ msgstr "Гласове: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Отмени вашата оценка."
+
+#~ msgid "You have already rated."
+#~ msgstr "Вече сте оценили. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Грешка. Грешен код за потвърждение. "
+
+#~ msgid "Name"
+#~ msgstr "Име"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Коментар"
+
+#~ msgid "Verification Code"
+#~ msgstr "Verification Code"
+
+#~ msgid "Submit"
+#~ msgstr "Изпращане"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Вашият коментар изчаква умереност"
+
+#~ msgid "Delete Comment"
+#~ msgstr "Изтриване на коментар"
+
+#~ msgid "Hide rating"
+#~ msgstr "Hide рейтинг"
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "Фотогалерия плъгин автоматични интервала актуализация."

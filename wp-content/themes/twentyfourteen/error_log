@@ -1,0 +1,9 @@
+[21-Jul-2015 10:12:22 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[11-Oct-2015 07:43:31 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[27-Apr-2016 08:49:40 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[01-May-2016 09:57:19 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[27-May-2016 14:38:03 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[28-Nov-2016 07:59:01 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[28-Nov-2016 08:36:04 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[28-Nov-2016 18:23:49 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[20-Jan-2017 12:41:46 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/plrk1749/public_html/wp-content/themes/twentyfourteen/404.php on line 10

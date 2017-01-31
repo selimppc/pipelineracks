@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2015-04-02 13:38+0400\n"
+"PO-Revision-Date: 2015-04-02 13:38+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp2\\wp-content\\plugins\\photo-"
+"gallery\n"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:528
+msgid " item(s)"
+msgstr "article(s)"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:533
+msgid "First"
+msgstr "En primer lloc"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:534
+msgid "Previous"
+msgstr "Anterior"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:535
+msgid "Next"
+msgstr "Següent"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:536
+msgid "Last"
+msgstr "Passat"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:562
+msgid "Go to the first page"
+msgstr "Anar a la primera pàgina "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:563
+msgid "Go to the previous page"
+msgstr "Anar a la pàgina anterior"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:565
+msgid "of"
+msgstr "de "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:569
+msgid "Go to the next page"
+msgstr "Anar a la pàgina següent"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:570
+msgid "Go to the last page"
+msgstr "Anar a l'última pàgina"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:655
+msgid "Reset"
+msgstr "Restablir"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:658
+msgid "Search"
+msgstr "Cerca"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:700
+msgid "Order by: "
+msgstr "ordenar per"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:702
+msgid "Default"
+msgstr "defecte"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:703
+msgid "Filename"
+msgstr "nom De l'Arxiu"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:704
+msgid "Size"
+msgstr "mida"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:705
+msgid "Random"
+msgstr "aleatori"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:145
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:90
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:132
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:147
+msgid "There is no theme selected or the theme was deleted."
+msgstr "No hi ha tema seleccionat o s'ha eliminat el tema."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:152
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:184
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:97
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:129
+msgid "There is no album selected or the album was deleted."
+msgstr "No hi ha cap àlbum seleccionat o es va eliminar l'àlbum."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:173
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:118
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:142
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:164
+msgid "There are no images in this gallery."
+msgstr "No hi ha imatges en aquesta galeria."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:562
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:529
+msgid "Back"
+msgstr "Tornar"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:585
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:540
+msgid "Album is empty."
+msgstr "Àlbum està buit."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:704
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:683
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3272
+msgid "There are no images matching your search."
+msgstr "No hi ha imatges que coincideixen amb la vostra cerca."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:709
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:688
+msgid "Gallery is empty."
+msgstr "Galeria és buida."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:818
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:783
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:811
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2113
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1437
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:500
+msgid "Play"
+msgstr "Juga"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:642
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:827
+msgid "More"
+msgstr "Més"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:822
+msgid "Hide"
+msgstr "Amaga"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:791
+msgid "The image has been deleted."
+msgstr "La imatge ha estat esborrada."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:815
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1513
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1944
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2045
+msgid "Maximize"
+msgstr "Maximitzar"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1515
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2047
+msgid "Fullscreen"
+msgstr "Pantalla completa "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:821
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1834
+msgid "Show info"
+msgstr "Mostra la informació"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:826
+msgid "Open image in original size."
+msgstr "Obrir imatge en mida original."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:834
+msgid "Download original image"
+msgstr "Descarregar la imatge original"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1655
+msgid "Show Comments"
+msgstr "Mostrar comentaris"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1698
+msgid "Hide Comments"
+msgstr "Amaga comentaris "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1830
+msgid "Hide info"
+msgstr "Anterior informació"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1981
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2180
+msgid "Restore"
+msgstr "Restaurar"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2094
+msgid "Exit Fullscreen"
+msgstr "Surt de la pantalla completa"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2107
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2122
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1428
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1446
+msgid "Pause"
+msgstr "Pausa"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:137
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:158
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "No hi ha galeria seleccionada o la galeria s'ha eliminat."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3270
+msgid "field is required."
+msgstr "Es requereix camp."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3271
+msgid "This is not a valid email address."
+msgstr "Això no és una adreça de correu electrònic vàlida."
+
+#~ msgid "Show comments"
+#~ msgstr "Mostrar comentaris"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Comparteix a Facebook "
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Comparteix a Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Comparteix a Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Compartir a Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Compartir a Tumblr"
+
+#~ msgid "Show rating"
+#~ msgstr "Mostra classificació"
+
+#~ msgid "Hits: "
+#~ msgstr "hits:"
+
+#~ msgid "Rated."
+#~ msgstr "Puntuació."
+
+#~ msgid "Not rated yet."
+#~ msgstr "No s'ha classificat. "
+
+#~ msgid "Votes: "
+#~ msgstr "vots: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Cancel seva qualificació. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Ja has valorat. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Error. Incorrecta del codi de verificació. "
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Email"
+#~ msgstr "email"
+
+#~ msgid "Comment"
+#~ msgstr "Comentari"
+
+#~ msgid "Verification Code"
+#~ msgstr "codi de verificació"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "La vostra revisió està pendent de moderació "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Eliminar comentari"
+
+#~ msgid "Hide rating"
+#~ msgstr "Amaga qualificació"
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "Galeria de fotos plugin d'interval d'actualització automàtica."

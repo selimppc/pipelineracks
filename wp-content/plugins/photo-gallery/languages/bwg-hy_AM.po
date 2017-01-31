@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2015-04-02 13:46+0400\n"
+"PO-Revision-Date: 2015-04-02 13:46+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp2\\wp-content\\plugins\\photo-"
+"gallery\n"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:528
+msgid " item(s)"
+msgstr "պատկեր(ներ)"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:533
+msgid "First"
+msgstr "Առաջին"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:534
+msgid "Previous"
+msgstr "Նախորդ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:535
+msgid "Next"
+msgstr "Հաջորդ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:536
+msgid "Last"
+msgstr "Վերջին"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:562
+msgid "Go to the first page"
+msgstr "Գնալ առաջին էջ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:563
+msgid "Go to the previous page"
+msgstr "Գնալ նախորդ էջ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:565
+msgid "of"
+msgstr "-ը"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:569
+msgid "Go to the next page"
+msgstr "Գնալ հաջորդ էջ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:570
+msgid "Go to the last page"
+msgstr "Գնալ վերջին էջ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:655
+msgid "Reset"
+msgstr "Դատարկել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:658
+msgid "Search"
+msgstr "Որոնում"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:700
+msgid "Order by: "
+msgstr "Դասավորել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:702
+msgid "Default"
+msgstr "Լռելյայն"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:703
+msgid "Filename"
+msgstr "Ըստ ֆայլի անունի"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:704
+msgid "Size"
+msgstr "Ըստ չափի"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:705
+msgid "Random"
+msgstr "Պատահական"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:145
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:90
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:132
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:147
+msgid "There is no theme selected or the theme was deleted."
+msgstr "Ընտրված թեմա  չկա կամ թեման ջնջված է :"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:152
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:184
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:97
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:129
+msgid "There is no album selected or the album was deleted."
+msgstr "Ընտրված  ալբոմ չկա  կամ  ալբոմը  ջնջված է :"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:173
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:118
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:142
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:164
+msgid "There are no images in this gallery."
+msgstr "Այս պատկերասրահում պատկերներ չկան: "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:562
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:529
+msgid "Back"
+msgstr "Հետ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:585
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:540
+msgid "Album is empty."
+msgstr "Ալբոմը դատարկ է:"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:704
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:683
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3272
+msgid "There are no images matching your search."
+msgstr "Ձեր որոնմանը համապատասխան տվյալներ չկան:"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:709
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:688
+msgid "Gallery is empty."
+msgstr "Պատկերասրահը դատարկ է:"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:818
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:783
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:811
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2113
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1437
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:500
+msgid "Play"
+msgstr "Սկսել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:642
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:827
+msgid "More"
+msgstr "Ավելին"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:822
+msgid "Hide"
+msgstr "Թաքցնել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:791
+msgid "The image has been deleted."
+msgstr "Պատկերը ջնջված է:"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:815
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1513
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1944
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2045
+msgid "Maximize"
+msgstr "Մեծացնել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1515
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2047
+msgid "Fullscreen"
+msgstr "Ամբողջ էկրան"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:821
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1834
+msgid "Show info"
+msgstr "Ցույց տալ տեղեկությունը"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:826
+msgid "Open image in original size."
+msgstr "Տեսնել պատկերը օրիգինալ չափով"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:834
+msgid "Download original image"
+msgstr "Բեռնել պատկերը"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1655
+msgid "Show Comments"
+msgstr "Ցույց տալ մեկնաբանությունները"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1698
+msgid "Hide Comments"
+msgstr "Թաքցնել մեկնաբանությունները"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1830
+msgid "Hide info"
+msgstr "Թաքցնել տեղեկությունը"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1981
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2180
+msgid "Restore"
+msgstr "Վերականգնել"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2094
+msgid "Exit Fullscreen"
+msgstr "Դուրս գալ ամբողջ էկրանից"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2107
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2122
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1428
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1446
+msgid "Pause"
+msgstr "Դադար"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:137
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:158
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "Ընտրված  պատկերասրահ  չկա  կամ այն ջնջված է :"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3270
+msgid "field is required."
+msgstr "դաշտը պարտադիր է: "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3271
+msgid "This is not a valid email address."
+msgstr "Սա անվավեր էլեկտրոնային փոստի հասցե է:   "
+
+#~ msgid "Show comments"
+#~ msgstr "Ցույց տալ մեկնաբանությունները"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Կիսվել  Facebook-ում"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Կիսվել  Twitter-ում "
+
+#~ msgid "Share on Google+"
+#~ msgstr "Կիսվել  Google+-ում"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Կիսվել  Pinterest-ում "
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Կիսվել  Tumblr-ում "
+
+#~ msgid "Show rating"
+#~ msgstr "Ցույց տալ վարկանիշը"
+
+#~ msgid "Hits: "
+#~ msgstr "Դիտումների քանակը."
+
+#~ msgid "Rated."
+#~ msgstr "Գնահատված է"
+
+#~ msgid "Not rated yet."
+#~ msgstr "Գնահատված չէ"
+
+#~ msgid "Votes: "
+#~ msgstr "Ձայներ."
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Չեղյալ համարել Ձեր գնահատականը"
+
+#~ msgid "You have already rated."
+#~ msgstr "Դուք արդեն գնահատել եք"
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Ստուգման կոդը  սխալ է"
+
+#~ msgid "Name"
+#~ msgstr "Անուն"
+
+#~ msgid "Email"
+#~ msgstr "էլեկտրոնային փոստ"
+
+#~ msgid "Comment"
+#~ msgstr "Մեկնաբանություն"
+
+#~ msgid "Verification Code"
+#~ msgstr "Ստուգման կոդ"
+
+#~ msgid "Submit"
+#~ msgstr "Ուղարկել"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Ձեր մեկնաբանությունը սպասում է հաստատման"
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ջնջել մեկնաբանությունը"
+
+#~ msgid "Hide rating"
+#~ msgstr "Թաքցնել գնահատականը."
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "Պատկերասրահի ավտոմատ թարմացման ժամանակայատվածը."

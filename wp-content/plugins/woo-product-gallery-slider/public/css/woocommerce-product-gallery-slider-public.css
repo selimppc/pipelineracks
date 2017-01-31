@@ -1,0 +1,60 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+.woocommerce .thumbnails{
+	position:relative;
+	    z-index: 2;
+}
+.woocommerce-page div.product div.thumbnails a{width:100% !important;}
+.woocommerce .thumbnails .owl-nav{
+    display: block;
+    height: auto;
+	width: 100%;
+	
+}
+
+.woocommerce .thumbnails .owl-nav .owl-prev {
+	    left: -10px;
+   
+    
+
+}
+.woocommerce .thumbnails .owl-nav .owl-next {
+	right: -10px;
+   
+	
+	 
+}
+/*
+.woocommerce .thumbnails .owl-nav .owl-prev i,.woocommerce .thumbnails .owl-nav .owl-next i{
+	
+}
+.woocommerce .thumbnails .owl-nav .owl-prev:hover ,.woocommerce .thumbnails .owl-nav .owl-next:hover{
+	
+} 
+*/
+
+.woocommerce .thumbnails .owl-dots .owl-dot {
+    width: 16px;
+    height: 6px;
+    margin: 5px 5px;
+    
+background:#ddd;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0;
+	display: inline-block;
+}
+
+.woocommerce .thumbnails .owl-dot.active{
+	background:red;
+}
+
+
+.woocommerce .thumbnails .owl-dots {
+    text-align: center;
+}
+
+

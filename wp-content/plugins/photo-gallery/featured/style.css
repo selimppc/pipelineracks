@@ -1,0 +1,107 @@
+#main_featured_plugins_page #featured-plugins-list  li.form-maker  .product {background: url("images/form.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.photo-gallery  .product {background: url("images/photo-gallery.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.slider  .product {background: url("images/slider.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.twitter-widget .product {background: url("images/twitter-widget.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.catalog  .product {background: url("images/catalog.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contact-form-maker  .product {background: url("images/contact-form-maker.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contact-form-builder  .product {background: url("images/contact-form-builder.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contacts  .product {background: url("images/contacts.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.facebook  .product {background: url("images/facebook.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.faq  .product {background: url("images/faq.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.flash-calendar .product {background: url("images/flash.calendar.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.folder-menu  .product {background: url("images/folder.menu.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.player  .product {background: url("images/player.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.spider-calendar  .product {background: url("images/spider-calendar.jpg") left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.zoom .product {background: url("images/zoom.jpg") left center no-repeat;}
+
+#main_featured_plugins_page * {
+  color: #444;
+  font-family: "Open Sans",sans-serif;
+	padding: 0;
+}
+
+#main_featured_plugins_page p {
+	font-size: 13px;
+  line-height: 1.5;
+	margin-right: 0px;
+	margin-top: 7px;
+}
+
+#main_featured_plugins_page h3 {
+  border-bottom: 2px solid rgb(111, 111, 111);
+	color: rgb(111, 111, 111); 
+	font-family: Segoe UI;
+	font-size: 30px;
+	margin: 0px;
+	padding: 20px 0;
+  width: 99%;
+}
+
+#main_featured_plugins_page #featured-plugins-list {
+	display: table;
+	height: auto;
+	list-style: none;
+	margin: 0;
+	position: relative;
+	width: 99%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li {
+	background: #ededed;
+	display: block;
+	height: 113px;
+	margin: 0px 0px 12px 0px;
+	padding: 15px 5%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .product {
+	float: left;
+	height: 113px;
+	position: relative;
+	width: 35%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .title {
+	background: #cacaca;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	float: left;
+	height: 113px;
+	margin: 0px 0px 0px 109px;
+	width: 90%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .title  .heading {
+	color: #014f73;
+	display: block;
+	font-size: 24px;
+	margin: 25px 0 0 20px;
+	position: relative;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .title  p {
+	color: #444;
+	font-size: 14px;
+	margin-left: 20px;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .description {
+	float: right;
+	height: 113px;
+	width: 50%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .description  p {
+	text-align: right;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .description   a.download,
+#main_featured_plugins_page #featured-plugins-list li  .description   a.download:link,
+#main_featured_plugins_page #featured-plugins-list li  .description   a.download:visited {
+	background: url("images/download.jpg") left top no-repeat;
+	display: block;
+	float: right;
+	height: 32px;
+	text-indent: -9999px;
+	width: 106px;
+}

@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2015-04-02 13:19+0400\n"
+"PO-Revision-Date: 2015-04-02 13:49+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n"
+"%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp2\\wp-content\\plugins\\photo-"
+"gallery\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:528
+msgid " item(s)"
+msgstr "partita"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:533
+msgid "First"
+msgstr "Ewwel"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:534
+msgid "Previous"
+msgstr "Preċedenti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:535
+msgid "Next"
+msgstr "Next"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:536
+msgid "Last"
+msgstr "Aħħar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:562
+msgid "Go to the first page"
+msgstr "Mur għall-ewwel paġna"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:563
+msgid "Go to the previous page"
+msgstr "Mur fil-paġna preċedenti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:565
+msgid "of"
+msgstr "tal"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:569
+msgid "Go to the next page"
+msgstr "Mur fil-paġna li jmiss"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:570
+msgid "Go to the last page"
+msgstr "Mur għall-aħħar paġna"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:655
+msgid "Reset"
+msgstr "Irrisettja"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:658
+msgid "Search"
+msgstr "Search"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:700
+msgid "Order by: "
+msgstr "ordni minn"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:702
+msgid "Default"
+msgstr "default"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:703
+msgid "Filename"
+msgstr "filename"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:704
+msgid "Size"
+msgstr "daqs"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:705
+msgid "Random"
+msgstr "Random"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:154
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:99
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:132
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:33
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:47
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:147
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:151
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_mosaic.php:155
+msgid "There is no theme selected or the theme was deleted."
+msgstr "M'hemm l-ebda tema magħżula jew it-tema ġiet imħassra"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:161
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:193
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:106
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:138
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:137
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:169
+msgid "There is no album selected or the album was deleted."
+msgstr "M'hemm l-ebda album magħżula jew l-album ġie mħassar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:182
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:127
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:158
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:98
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:168
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:164
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:162
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_mosaic.php:166
+msgid "There are no images in this gallery."
+msgstr "M'hemm l-ebda immaġini fil din il-gallarija."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:941
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:891
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:464
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:502
+msgid "Back"
+msgstr "Back"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:964
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:902
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:518
+msgid "Album is empty."
+msgstr "Album ikun vojt"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:1088
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1047
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:598
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/photo-gallery.php:3399
+msgid "There are no images matching your search."
+msgstr "M'hemm l-ebda immaġini tqabbil tfittxija tiegħek."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:1093
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1052
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_masonry_preview.php:603
+msgid "Gallery is empty."
+msgstr "Gallerija ikun vojt"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:1157
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:1210
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1101
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1152
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:857
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2677
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1638
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:504
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_mosaic.php:446
+msgid "Play"
+msgstr "Play"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1006
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1188
+msgid "More"
+msgstr "Aktar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:1183
+msgid "Hide"
+msgstr "Aħbi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:92
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:163
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:158
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_masonry.php:156
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails_mosaic.php:160
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "M'hemm l-ebda gallerija magħżula jew il-gallerija kienet imħassra."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:540
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:869
+msgid "Show comments"
+msgstr "Uri kummenti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:546
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:547
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:879
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:880
+msgid "Share on Facebook"
+msgstr "Share fuq Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:553
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:554
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:886
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:887
+msgid "Share on Twitter"
+msgstr "Share fuq Twitter"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:560
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:561
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:893
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:894
+msgid "Share on Google+"
+msgstr "Share fuq Google +"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:567
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:568
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:900
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:901
+msgid "Share on Pinterest"
+msgstr "Share fuq Pinterest"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:574
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewBlog_style.php:575
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:907
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:908
+msgid "Share on Tumblr"
+msgstr "Share fuq Tumblr"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:837
+msgid "The image has been deleted."
+msgstr "L-immaġni tħassret."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:861
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1965
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2495
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2601
+msgid "Maximize"
+msgstr "Timmassimizza"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:865
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1967
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2603
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:867
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2329
+msgid "Show info"
+msgstr "Uri info"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:871
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2340
+msgid "Show rating"
+msgstr "Uri rating"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:915
+msgid "Open image in original size."
+msgstr "Image miftuħa fid-daqs oriġinali. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:923
+msgid "Download original image"
+msgstr "Tniżżel immaġini oriġinali"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1033
+msgid "Hits: "
+msgstr "Viżti: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1044
+msgid "Rated."
+msgstr "Rated."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1048
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1062
+msgid "Not rated yet."
+msgstr "Mhux nominali għadha. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1050
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1084
+msgid "Votes: "
+msgstr "Voti: "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1082
+msgid "Cancel your rating."
+msgstr "Ikkanċella gradazzjoni tiegħek. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1084
+msgid "You have already rated."
+msgstr "Inti diġà ratata. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1183
+msgid "Error. Incorrect Verification Code."
+msgstr "Error. Kodiċi Verifika żbaljata. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1190
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/photo-gallery.php:3398
+msgid "This is not a valid email address."
+msgstr "Din mhix l-indirizz email validu. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1198
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2176
+msgid "Hide Comments"
+msgstr "Aħbi Kummenti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1202
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1230
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1237
+msgid "Name"
+msgstr "Isem"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1208
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1230
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1237
+msgid "Email"
+msgstr "email"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1215
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1230
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1237
+msgid "Comment"
+msgstr "Jikkummentaw"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1220
+msgid "Verification Code"
+msgstr "Kodiċi verifika"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1243
+msgid "Submit"
+msgstr "Issottometti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1244
+msgid "Your comment is awaiting moderation"
+msgstr "Kumment tiegħek qed tistenna moderazzjoni "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1273
+msgid "Delete Comment"
+msgstr "Ħassar Kumment"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2130
+msgid "Show Comments"
+msgstr "Uri Kummenti"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2325
+msgid "Hide info"
+msgstr "Aħbi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2336
+msgid "Hide rating"
+msgstr "Klassifikazzjoni jinħbew"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2533
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2753
+msgid "Restore"
+msgstr "Restore"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2656
+msgid "Exit Fullscreen"
+msgstr "Ħruġ Fullscreen"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2671
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2686
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1629
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1647
+msgid "Pause"
+msgstr "Pause"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/photo-gallery.php:3397
+msgid "field is required."
+msgstr "qasam hija meħtieġa. "
+
+#: C:\wamp\www\wordpress\wp-content\plugins\photo-gallery/photo-gallery.php:3419
+msgid "Photo gallery plugin autoupdate interval."
+msgstr "Photo gallery plugin intervall AutoUpdate."

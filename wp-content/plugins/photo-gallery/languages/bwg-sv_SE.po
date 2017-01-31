@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bwg\n"
+"POT-Creation-Date: 2015-04-02 14:49+0400\n"
+"PO-Revision-Date: 2015-04-02 14:49+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp2\\wp-content\\plugins\\photo-"
+"gallery\n"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:528
+msgid " item(s)"
+msgstr "produkten"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:533
+msgid "First"
+msgstr "Först"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:534
+msgid "Previous"
+msgstr "Föregående"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:535
+msgid "Next"
+msgstr "Nästa"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:536
+msgid "Last"
+msgstr "Last"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:562
+msgid "Go to the first page"
+msgstr "Gå till den första sidan"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:563
+msgid "Go to the previous page"
+msgstr "Gå till föregående sida"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:565
+msgid "of"
+msgstr "av"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:569
+msgid "Go to the next page"
+msgstr "Gå till nästa sida"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:570
+msgid "Go to the last page"
+msgstr "Gå till sista sida"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:655
+msgid "Reset"
+msgstr "Återställ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:658
+msgid "Search"
+msgstr "Sök"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:700
+msgid "Order by: "
+msgstr "Sortera efter"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:702
+msgid "Default"
+msgstr "Standard"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:703
+msgid "Filename"
+msgstr "filnamn"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:704
+msgid "Size"
+msgstr "storlek"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/framework/WDWLibrary.php:705
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:145
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:90
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:72
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:132
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:147
+msgid "There is no theme selected or the theme was deleted."
+msgstr "Det finns inget tema som valts eller temat tagits bort."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:152
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:184
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:97
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:129
+msgid "There is no album selected or the album was deleted."
+msgstr "Det finns inga album valts eller albumet bort."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:173
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:118
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:83
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:142
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:164
+msgid "There are no images in this gallery."
+msgstr "Det finns inga bilder i detta galleri."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:562
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:529
+msgid "Back"
+msgstr "Back"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:585
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:540
+msgid "Album is empty."
+msgstr "Album är tom."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:704
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:683
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3272
+msgid "There are no images matching your search."
+msgstr "Det finns inga bilder som matchar din sökning."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:709
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:688
+msgid "Gallery is empty."
+msgstr "Galleri är tomt."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_compact_preview.php:818
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:783
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:811
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2113
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1437
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:500
+msgid "Play"
+msgstr "Spela"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:642
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:827
+msgid "More"
+msgstr "Mer"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewAlbum_extended_preview.php:822
+msgid "Hide"
+msgstr "Hide"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:791
+msgid "The image has been deleted."
+msgstr "Bilden har tagits bort."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:815
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1513
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1944
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2045
+msgid "Maximize"
+msgstr "Maximera"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:819
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1515
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2047
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:821
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1834
+msgid "Show info"
+msgstr "Visa info"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:826
+msgid "Open image in original size."
+msgstr "Öppna bilden i originalstorlek. "
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:834
+msgid "Download original image"
+msgstr "Ladda ner ursprungsbild"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1655
+msgid "Show Comments"
+msgstr "Visa kommentarer"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1698
+msgid "Hide Comments"
+msgstr "Göm kommentarer"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1830
+msgid "Hide info"
+msgstr "Dölj"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:1981
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2180
+msgid "Restore"
+msgstr "Återställ"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2094
+msgid "Exit Fullscreen"
+msgstr "Avsluta fullskärm"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2107
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewGalleryBox.php:2122
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1428
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:1446
+msgid "Pause"
+msgstr "Paus"
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewImage_browser.php:77
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewSlideshow.php:137
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/frontend/views/BWGViewThumbnails.php:158
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "Det finns ingen galleri valts eller galleriet har tagits bort."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3270
+msgid "field is required."
+msgstr "fält krävs."
+
+#: C:\wamp\www\wp2\wp-content\plugins\photo-gallery/photo-gallery.php:3271
+msgid "This is not a valid email address."
+msgstr "Detta är inte en giltig e-postadress."
+
+#~ msgid "Show comments"
+#~ msgstr "Visa kommentarer."
+
+#~ msgid "Share on Facebook"
+#~ msgstr " Dela med dig på Facebook."
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Dela på Twitter."
+
+#~ msgid "Share on Google+"
+#~ msgstr "Dela med dig på Google+."
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Dela på Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Dela på Tumblr"
+
+#~ msgid "Show rating"
+#~ msgstr "Visa betyg"
+
+#~ msgid "Hits: "
+#~ msgstr "Träffar: "
+
+#~ msgid "Rated."
+#~ msgstr "Märk."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Inte betygsatt än. "
+
+#~ msgid "Votes: "
+#~ msgstr "Röster: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Avboka din rating. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Du har redan betygsatt. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Fel. Felaktig verifikationskod. "
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "Verification Code"
+#~ msgstr "Verifieringskod"
+
+#~ msgid "Submit"
+#~ msgstr "Skicka"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Din kommentar väntar på moderering "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ta bort kommentar"
+
+#~ msgid "Hide rating"
+#~ msgstr "Göm betyg"
+
+#~ msgid "Photo gallery plugin autoupdate interval."
+#~ msgstr "Bildgalleri plugin automatisk uppdatering intervall."
