@@ -26,7 +26,25 @@
       </div>
     </footer>
 </div>
+<link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/css/owl.carousel.css">
 
+<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/owl.carousel.min.js"></script>
+
+		<script>
+
+jQuery(".detail-carousel").owlCarousel({
+    autoplay: false,
+			            items: 1,
+			            loop: true,
+			            margin: 10,
+			            smartSpeed: 450,
+			            dotData: true,
+  });
+
+
+			
+
+		</script>
 <?php wp_footer(); ?>
 <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -41,6 +59,11 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script>
+
+		
+
+    
+<script>
                                 
 </body>
 </html>

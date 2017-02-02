@@ -158,19 +158,39 @@ $args = array(
 	    <div class="item-box">
 		   <div class="row">
 		    <div class="spacer">
-			   <div class="col-md-3 col-sm-3">
+			
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				
 				<div class="browseProductImageContainer">
+					<?php
+						global $post;
+						$product_slider_data_r = get_post_meta($post->ID,'product-slider', true); // 
+						
+						if(!empty($product_slider_data_r)){
+							echo '<div class="detail-carousel interior-slider clearfix">';
+							foreach($product_slider_data_r as $product_slider){											
+								$image_url = wp_get_attachment_url( $product_slider['photo'] );
+					?>
+									<div class="item" data-dot="<span style='background-image: url(<?=$image_url?>)'></span>">
+										<img src="<?=$image_url?>" alt="" class="full-width">
+									</div>
 					<?php 
-					if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
-					
-						the_post_thumbnail('full', array('class' => 'img-responsive'));
-					} 
+							}
+							echo '</div>';
+						}else{
+							
+							if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
+								the_post_thumbnail('full', array('class' => 'img-responsive'));
+							}
+						}
 					?>
 				</div>
-			   </div>
-
-				<div class="col-md-6 col-sm-6">
-					<div class="title-indent">
+				
+			</div>
+			 
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				
+				<div class="title-indent">
 					<div class="item-box-desc">
 					  <h4 class="product-name"><a><a href="<?php the_permalink() ?>"> <?php the_title(); ?></a></a></h4>
 					
@@ -182,11 +202,10 @@ $args = array(
 						<a class="product-details" title="" href="<?php the_permalink() ?>">Product details</a>
 						</div>
 					</div>
-					</div>
-				  </div>
-
-				 <div class="col-md-3 col-sm-3">
-				    <p style="color:red;margin-bottom:5px !important;line-height:18px;"> 
+				</div>
+				
+				
+				<p style="color:red;margin-bottom:5px !important;line-height:18px;"> 
 					<?php
 					 if(get_the_title()!="Surface Mounting Kit"){
 						if (function_exists('ot_get_option')) {
@@ -206,8 +225,10 @@ $args = array(
                         <div class="paypalbtn">
 					<?php echo post_custom('checkout_with_paypal');?>
 					</div>
+			
+			</div>
+
 				
-			   </div>
 		   </div>
 
 		  </div><!--/row-->
@@ -230,5 +251,33 @@ $args = array(
   
     </div>
 	  </div>
+	  
+	  <style type="text/css">
+			.detail-carousel .owl-dots {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    width: 50px;
+                          }  
+			.detail-carousel .owl-dots span {
+				display: block;
+				width: 100%;
+				height: 50px;
+				background-color: transparent;
+				padding: 0;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+				background-position: center center;
+				border: none;
+   margin-bottom:5px;
+			}
+				.owl-carousel .owl-stage-outer{
+					left:55px;
+                                       width:82%;
+				}
+
+		</style>
 
 <?php get_footer(); ?>

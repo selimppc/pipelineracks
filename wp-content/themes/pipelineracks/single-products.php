@@ -1,5 +1,6 @@
 <?php
 get_header(); ?>
+
  <section class="container">
 <div class="row">
 	<div class="col-md-3">
@@ -91,39 +92,59 @@ $args = array(
         <h1><?php the_title()?> </h1>
 </div>
 
-<div class="col-md-3 col-sm-3">
-<?php 
-					if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
-					
-						the_post_thumbnail('full', array('class' => 'img-responsive'));
-					} 
-					?>
-</div>
-<div class="col-md-6 col-sm-6">
+	
+	<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="row">
 <?php
-					if (have_posts()): while (have_posts()): the_post();
-                    ?>
-					 <?php
-							the_content();
-						endwhile;
-					endif;
-					?>
+	global $post;
+	$product_slider_data_r = get_post_meta($post->ID,'product-slider', true); // 
+	
+	if(!empty($product_slider_data_r)){
+		echo '<div class="detail-carousel interior-slider clearfix">';
+		foreach($product_slider_data_r as $product_slider){											
+			$image_url = wp_get_attachment_url( $product_slider['photo'] );
+?>
+				<div class="item" data-dot="<span style='background-image: url(<?=$image_url?>)'></span>">
+					<img src="<?=$image_url?>" alt="" class="full-width">
+				</div>
+<?php 
+		}
+		echo '</div>';
+	}else{
+		
+		if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
+			the_post_thumbnail('full', array('class' => 'img-responsive'));
+		}
+	}
+?>
 
-	  		</div>
-
-
-<div class="col-md-3 col-sm-3">
-<div class="product-price">Price: <?php echo post_custom('price');?></div>
-<!--<span class="addtocart-button">
-<input type="submit" title="Add to Cart" value="Add to Cart" class="addtocart-button cart-click" name="">
-</span>-->
-<div class="checkoutbtn">
-<?php echo post_custom('proceed_to_checkout');?>
 </div>
-<div class="paypalbtn">
-<?php echo post_custom('checkout_with_paypal');?>
-</div> 
 </div>
+
+<div class="col-md-6 col-sm-6 col-xs-12">
+	
+	<?php
+	if (have_posts()): while (have_posts()): the_post();
+	?>
+	<?php
+			the_content();
+		endwhile;
+	endif;
+	?>
+	
+	<div class="product-price">Price: <?php echo post_custom('price');?></div>
+	
+	<div class="checkoutbtn">
+		<?php echo post_custom('proceed_to_checkout');?>
+	</div>
+	<div class="paypalbtn">
+		<?php echo post_custom('checkout_with_paypal');?>
+	</div> 
+
+</div>
+
+
+
 
 	   
 		
@@ -136,5 +157,33 @@ $args = array(
   
     </div>
 	  </div>
+	  
+	    <style type="text/css">
+			.detail-carousel .owl-dots {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    width: 50px;
+                          }  
+			.detail-carousel .owl-dots span {
+				display: block;
+				width: 100%;
+				height: 50px;
+				background-color: transparent;
+				padding: 0;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+				background-position: center center;
+				border: none;
+   margin-bottom:5px;
+			}
+				.owl-carousel .owl-stage-outer{
+					left:55px;
+                                       width:82%;
+				}
+
+		</style>
 
 <?php get_footer(); ?>
